@@ -1,0 +1,14 @@
+.frst {
+background-color: black;
+color: white;
+}
+
+.scnd {
+background-color: yellow;
+}
+
+.frst, 
+.scnd {
+    font-family:  Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
